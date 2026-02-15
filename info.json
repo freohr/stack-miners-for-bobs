@@ -4,6 +4,6 @@
   "title": "Stack Miners for Bob's",
   "author": "r0mai",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0"],
-  "description": "This mod adds in fire armor that leaves behind damaging fire as you walk around."
+  "dependencies": ["base >= 2.0", "bobmining >= 2.0.0"],
+  "description": "Makes Bob's Mining electric drills stack items on belts (sets drops_full_belt_stacks)."
 }
